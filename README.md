@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Micole Kurt Gonda</h1> 
 
 <h2>Education</h2>
-BS Computer Science
-New Era University
-2023-present
+<p></p>BS Computer Science
+<p></p>New Era University
+<p></p>2023-present
 
 <h2>Certification</h2>
 SQL and Relational Databases 101
