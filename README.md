@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Micole Kurt Gonda</h1> 
 
 <h2>Education</h2>
-<p></p>BS Computer Science
+<h1></h1>BS Computer Science
 <br>New Era University
 <br>2023-present
 
@@ -10,7 +10,8 @@
 
 <h2>Skill Sets</h2>
 
-  <li>Programming</li>
-  <li>Java</li>
-  <li>Database: DB2</li>
+ <h2>Skill Sets</h2>
+<ul>
+  <li>Programming: Java</li>
+  <li>Database: IBM DB2 Cloud</li>
 </ul>
