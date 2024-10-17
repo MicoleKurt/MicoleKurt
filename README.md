@@ -8,8 +8,6 @@
 <h2>Certification</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/4e4c7dc978fa4d9ca4a74211e034b51e">SQL and Relational Databases 101</a>
 
-<h2>Skill Sets</h2>
-
  <h2>Skill Sets</h2>
 <ul>
   <li>Programming: Java</li>
