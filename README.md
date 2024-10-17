@@ -9,4 +9,8 @@
 <a href="https://courses.cognitiveclass.ai/certificates/4e4c7dc978fa4d9ca4a74211e034b51e">SQL and Relational Databases 101</a>
 
 <h2>Skill Sets</h2>
-Programming, Java, IBM DB2 Cl
+
+  <li>Programming</li>
+  <li>Java</li>
+  <li>Database: DB2</li>
+</ul>
