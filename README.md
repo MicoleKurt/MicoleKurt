@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Micole Kurt Gonda</h1>
-<h3> A 2nd-year Bachelor of Science in Computer Science (BSCS) from New Era University, passionate about coding and learning new technologies. I love working on projects that challenge me and help me grow as a developer. </h3>
+<h3> I'm 2nd-year Bachelor of Science in Computer Science (BSCS) from New Era University, passionate about coding and learning new technologies. I love working on projects that challenge me and help me grow as a developer. </h3>
 
 <h2>Education</h2>
 <br>BS Computer Science
