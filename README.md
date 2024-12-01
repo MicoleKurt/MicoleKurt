@@ -8,7 +8,7 @@
 
 <h2>Certifications 🏅</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/4e4c7dc978fa4d9ca4a74211e034b51e">SQL and Relational Databases 101</a>
-
+<a href="[https://courses.cognitiveclass.ai/certificates/4e4c7dc978fa4d9ca4a74211e034b51e](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5407535&trackId=OCI2024FNDCFA&key=e165c7b7aa48c7e1d7bca67e01d944901194e43f)"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
  <h2>Skill Sets</h2>
 <ul>
   <li>Programming: Java</li>
