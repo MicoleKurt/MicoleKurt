@@ -12,6 +12,9 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E325F236FEE3CDE624C44BA07EB1D9D4A9F"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
 <br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E327A58DD54BCBEA485E20C60BB91FD7D87"> Oracle Cloud Data Management Foundations Associate</a>
+<br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=ACC593B516ECCBC81FDCAA7F199EABE7A9342AF234E124632BF77D4233136687"> Oracle Cloud Infrastructure AI Foundations Associate (2024)</a>
+<br>
  <h2>Skill Sets</h2>
 <ul>
   <li>Programming: Java</li>
