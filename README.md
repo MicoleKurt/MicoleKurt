@@ -1,120 +1,112 @@
-=[README.md](https://github.com/user-attachments/files/27034044/README.md)
-<!-- Spider Web Header -->
 <div align="center">
 
-```
-          *              *         *
-      *       *      *       *         *
-  *       ·────────────────────────·       *
-        ╱                            ╲
-      ╱   ·──────────────────────·    ╲
-    ╱    ╱                        ╲    ╲
-   *    ·   M I C O L E   K U R T  ·    *
-        │         G O N D A         │
-   *    ·                           ·    *
-    ╲    ╲                        ╱    ╱
-      ╲   ·──────────────────────·   ╱
-        ╲                            ╱
-          ·────────────────────────·
-      *       *      *       *         *
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,CC0000,FF0000&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%C2%B7%20New%20Era%20University&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=800&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=%22With+great+power+comes+great+responsibility%22;%22...+and+even+greater+debugging+sessions.%22)](https://git.io/typing-svg)
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%22With+great+power+comes+great+responsibility%22;%22...+and+even+greater+debugging+sessions.%22)](https://git.io/typing-svg)
 
-![](https://img.shields.io/badge/Student-BS_Computer_Science-CC0000?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/University-New_Era_University-8B0000?style=flat-square)
-![](https://img.shields.io/badge/Year-3rd-CC0000?style=flat-square)
-![](https://img.shields.io/badge/Focus-Design_Patterns_in_Java-8B0000?style=flat-square&logo=openjdk&logoColor=white)
+<br/>
+
+![](https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20BS%20Computer%20Science-0d0d12?style=for-the-badge&labelColor=CC0000&color=0d0d12)
+![](https://img.shields.io/badge/-New%20Era%20University-0d0d12?style=for-the-badge&labelColor=8B0000&color=0d0d12)
+![](https://img.shields.io/badge/-3rd%20Year-0d0d12?style=for-the-badge&labelColor=CC0000&color=0d0d12)
+![](https://img.shields.io/badge/-Java%20%7C%20Design%20Patterns-0d0d12?style=for-the-badge&labelColor=8B0000&color=0d0d12&logo=openjdk&logoColor=white)
 
 </div>
 
 ---
 
-## `whoami`
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6eXVpYnh4enI4eDNnZnVkaDQ3eHMxc3Nza3BhMnM1eGVlbzNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="220px"/>
 
-```terminal
-> micole-kurt --describe
+### `> micole-kurt --describe`
 
-  Name   : Micole Kurt Gonda
-  Role   : BS Computer Science Student
-  School : New Era University (2023 – Present)
-  Focus  : Software Design · OOP · Cloud Infrastructure
-  Goal   : Full-Stack Developer
-  Status : Swinging through design patterns, one commit at a time.
+```yaml
+name    : Micole Kurt Gonda
+school  : New Era University
+degree  : BS Computer Science
+year    : 3rd Year  (2023 – Present)
+focus   : Software Design · OOP · Cloud
+language: Java (primary)
+goal    : Full-Stack Developer
+status  : Swinging through design patterns
 ```
 
-I build things that stick. My academic work is grounded in **Java** and object-oriented design, with an emphasis on understanding *why* software is structured the way it is — not just how to make it run. Currently going deep on design patterns: the architectural vocabulary that separates maintainable systems from technical debt.
+I build things that **stick**. My work is grounded in Java and object-oriented design — with emphasis on understanding *why* software is structured the way it is, not just making it run. Currently deep in the Design Patterns arc: the architectural vocabulary that separates maintainable systems from technical debt.
+
+<br clear="right"/>
 
 ---
 
-## `./skills --display`
-
-```
-╔═══════════════════════════════════════════════════════╗
-║            S P I D E R   S K I L L   S U I T E       ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║  Java              ████████████████░░░░  80%          ║
-║  Eclipse IDE       ████████████████░░░░  80%          ║
-║  Lucidchart        ██████████████░░░░░░  70%          ║
-║  IBM DB2 Cloud     ████████████░░░░░░░░  60%          ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
----
-
-## `./education`
-
-| Degree | Institution | Period |
-|:--|:--|:--|
-| BS Computer Science | New Era University | 2023 – Present |
-
----
-
-## `./certifications`
-
-| | Certification |
-|:--|:--|
-| 🔴 | SQL and Relational Databases 101 |
-| 🔴 | Oracle Cloud Infrastructure 2024 Certified Foundations Associate |
-| 🔴 | Oracle Cloud Data Management Foundations Associate |
-| 🔴 | Oracle Cloud Infrastructure AI Foundations Associate (2024) |
-
----
-
-## `./repos --pinned`
-
-> Currently deep in the **Design Patterns arc** — studying the structural blueprints that power scalable, maintainable software.
-
-| Repository | Pattern Type | Description |
-|:--|:--|:--|
-| [CommandPattern](https://github.com/MicoleKurt/CommandPattern) | Behavioral | Encapsulating requests as standalone objects for decoupled execution |
-| [Adapter-Pattern](https://github.com/MicoleKurt/Adapter-Pattern) | Structural | Bridging incompatible interfaces through abstraction |
-| [Facade-Pattern](https://github.com/MicoleKurt/Facade-Patern) | Structural | Simplifying complex subsystems behind a unified interface |
-| [Prototype-Design-Pattern](https://github.com/MicoleKurt/Prototype-Design-Pattern) | Creational | Object cloning strategies for efficient instantiation |
-| [Solid-Design-Pattern](https://github.com/MicoleKurt/Solid-Design-Pattern) | Principles | SOLID applied within a pattern-driven architecture |
-| [Component-Design-Pattern](https://github.com/MicoleKurt/Component-Design-Pattern-) | Structural | Reusable component hierarchies and composition |
-
----
-
-## `./stats`
+## 🕸️ Spider Skill Suite
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicoleKurt&show_icons=true&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=cccccc&border_color=330000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicoleKurt&layout=compact&theme=dark&bg_color=0d0d12&title_color=CC0000&text_color=cccccc&border_color=330000)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MicoleKurt&theme=dark&background=0d0d12&border=330000&ring=CC0000&fire=FF4444&currStreakLabel=CC0000)
+| Skill | Level | Proficiency |
+|:--|:--|:--|
+| ☕ Java | `████████████████░░░░` | 80% |
+| 🌑 Eclipse IDE | `████████████████░░░░` | 80% |
+| 🛠️ Lucidchart | `██████████████░░░░░░` | 70% |
+| 🗃️ IBM DB2 Cloud | `████████████░░░░░░░░` | 60% |
 
 </div>
 
 ---
 
-## `./status --live`
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:--:|:--|:--|
+| 🔴 | SQL and Relational Databases 101 | IBM |
+| ☁️ | Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle |
+| 🗄️ | Oracle Cloud Data Management Foundations Associate | Oracle |
+| 🤖 | Oracle Cloud Infrastructure AI Foundations Associate (2024) | Oracle |
+
+</div>
+
+---
+
+## 📂 Design Patterns Arc — Pinned Repos
+
+> Every great developer studies the blueprints. Here's mine.
+
+<div align="center">
+
+[![CommandPattern](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=CommandPattern&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/CommandPattern)
+[![Adapter-Pattern](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=Adapter-Pattern&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/Adapter-Pattern)
+
+[![Facade-Patern](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=Facade-Patern&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/Facade-Patern)
+[![Prototype-Design-Pattern](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=Prototype-Design-Pattern&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/Prototype-Design-Pattern)
+
+[![Solid-Design-Pattern](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=Solid-Design-Pattern&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/Solid-Design-Pattern)
+[![Component-Design-Pattern-](https://github-readme-stats.vercel.app/api/pin/?username=MicoleKurt&repo=Component-Design-Pattern-&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=aaaaaa&border_color=330000)](https://github.com/MicoleKurt/Component-Design-Pattern-)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MicoleKurt&show_icons=true&theme=dark&bg_color=0d0d12&title_color=CC0000&icon_color=CC0000&text_color=cccccc&border_color=330000&hide_border=false&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoleKurt&layout=compact&theme=dark&bg_color=0d0d12&title_color=CC0000&text_color=cccccc&border_color=330000" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MicoleKurt&theme=dark&background=0d0d12&border=330000&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=888888&dates=666666" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MicoleKurt&bg_color=0d0d12&color=CC0000&line=880000&point=CC0000&area=true&area_color=330000&hide_border=false&border_color=330000" width="95%"/>
+
+</div>
+
+---
+
+## ⚡ Current Status
 
 ```diff
 + learning  : Design Patterns in Java — Creational · Structural · Behavioral
@@ -125,11 +117,11 @@ I build things that stick. My academic work is grounded in **Java** and object-o
 
 ---
 
-## `./connect`
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MicoleKurt-CC0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MicoleKurt)
+[![GitHub](https://img.shields.io/badge/GitHub-MicoleKurt-CC0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d12)](https://github.com/MicoleKurt)
 
 </div>
 
@@ -137,16 +129,6 @@ I build things that stick. My academic work is grounded in **Java** and object-o
 
 <div align="center">
 
-```
-  ·────────────────────────────────────────────·
-  │                                            │
-  │   Threads of logic.  Webs of structure.   │
-  │          One commit at a time.             │
-  │                                            │
-  ·────────────────────────────────────────────·
-                        🕷
-```
-
-*138 contributions and counting.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,CC0000,FF0000&height=120&section=footer&text=Threads%20of%20logic.%20Webs%20of%20structure.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
