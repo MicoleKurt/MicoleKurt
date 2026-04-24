@@ -1,101 +1,130 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:CC0000,100:FF0000&height=220&section=header&text=Micole%20Kurt%20Gonda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Developer%20🕷️&descAlignY=58&descSize=18&animation=fadeIn)
+```
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+      ░░  ╔══════════════════════════════════════╗  ░░
+     ░░   ║  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ║   ░░
+    ░░    ║  ·  MICOLE KURT GONDA  ·  ·  ·  ·  ║    ░░
+   ░░     ║  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ║     ░░
+    ░░    ╚══════════════════════════════════════╝    ░░
+      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+# 🕷️ MicoleKurt
+
+### *"With great power comes great responsibility — and even greater bugs to fix."*
+
+**3rd-Year BS Computer Science · New Era University**  
+Navigating the codebase one commit at a time. Building systems that don't just run — they *stick*.
 
 ---
 
-```
-  //         \\
- // 🕸️  🕷️  🕸️ \\
-||  With great  ||
-||  code comes  ||
-||  great bugs  ||
- \\             //
-  \\___________//
-```
+</div>
 
-### 🕷️ Hi there! I'm Micole Kurt Gonda
+## 🕸️ About Me
 
-> *"With great power comes great responsibility... and even greater deadlines."*
+I'm a Computer Science student with a focus on **software design**, **cloud infrastructure**, and **backend development**. My toolkit is grounded in Java, and I've been deepening my understanding of object-oriented design through the systematic study of design patterns — the kind of architectural thinking that separates functional code from resilient, maintainable systems.
 
-I'm a **3rd-year BS Computer Science** student from **New Era University** —
-swinging through code, fighting bugs like supervillains, and building projects
-that actually stick (just like a web).
+When I'm not in class, I'm pushing commits, studying patterns, and working toward becoming a well-rounded full-stack developer.
 
 ---
 
-## 🕸️ Education
+## 🎓 Education
 
-| 🎓 Degree | 🏫 School | 📅 Year |
-|-----------|-----------|---------|
+| Degree | Institution | Period |
+|--------|-------------|--------|
 | BS Computer Science | New Era University | 2023 – Present |
 
 ---
 
 ## 🏅 Certifications
 
-- 🎖️ [SQL and Relational Databases 101](https://www.ibm.com)
-- ☁️ [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://www.oracle.com)
-- 🗄️ [Oracle Cloud Data Management Foundations Associate](https://www.oracle.com)
-- 🤖 [Oracle Cloud Infrastructure AI Foundations Associate (2024)](https://www.oracle.com)
+| Badge | Certification |
+|-------|---------------|
+| 🎖️ | SQL and Relational Databases 101 |
+| ☁️ | Oracle Cloud Infrastructure 2024 Certified Foundations Associate |
+| 🗄️ | Oracle Cloud Data Management Foundations Associate |
+| 🤖 | Oracle Cloud Infrastructure AI Foundations Associate (2024) |
 
 ---
 
-## 🕷️ Skill Sets
+## 🛠️ Technical Skills
 
 ```
- __________________________________
-|   🔴  SPIDER  SKILL  SUITE  🔴   |
-|__________________________________|
-|                                  |
-|  🖥️  Java           ████████░░  80%  |
-|  🗃️  IBM DB2 Cloud  ██████░░░░  60%  |
-|  🛠️  Lucidchart     ███████░░░  70%  |
-|  🌑  Eclipse IDE    ████████░░  80%  |
-|__________________________________|
+╔══════════════════════════════════════════════════════╗
+║              S P I D E R   S K I L L   S U I T E    ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  Java              ████████████████░░░░   80%        ║
+║  Eclipse IDE       ████████████████░░░░   80%        ║
+║  Lucidchart        ██████████████░░░░░░   70%        ║
+║  IBM DB2 Cloud     ████████████░░░░░░░░   60%        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🕸️ GitHub Stats
+## 📂 Featured Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicoleKurt&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoleKurt&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000" height="160"/>
-</p>
+> Currently deep in the **Design Patterns** arc — studying the structural blueprints that power scalable software.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MicoleKurt&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=0d0d0d&border=CC0000"/>
-</p>
+| Repository | Focus |
+|------------|-------|
+| [CommandPattern](https://github.com/MicoleKurt/CommandPattern) | Behavioral pattern — encapsulating requests as objects |
+| [Adapter-Pattern](https://github.com/MicoleKurt/Adapter-Pattern) | Structural pattern — bridging incompatible interfaces |
+| [Facade-Pattern](https://github.com/MicoleKurt/Facade-Patern) | Structural pattern — simplifying complex subsystems |
+| [Prototype-Design-Pattern](https://github.com/MicoleKurt/Prototype-Design-Pattern) | Creational pattern — cloning objects efficiently |
+| [Solid-Design-Pattern](https://github.com/MicoleKurt/Solid-Design-Pattern) | Applying SOLID principles in pattern architecture |
+| [Solid-Principles](https://github.com/MicoleKurt/Solid-Principles) | Core OOP design principle foundations |
 
 ---
 
-## 🕷️ Currently...
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Micole Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicoleKurt&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=CC0000&icon_color=CC0000&text_color=ffffff&border_color=CC0000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicoleKurt&layout=compact&theme=dark&bg_color=0d0d0d&title_color=CC0000&text_color=ffffff&border_color=CC0000)
+
+</div>
+
+---
+
+## 🔭 Current Status
 
 ```diff
-+ Learning: Design Patterns in Java
-+ Building: Academic projects @ NEU
-+ Goal:     Become a Full-Stack Developer
-- Enemies:  NullPointerException, merge conflicts
++ Studying  : Design Patterns in Java (Creational · Structural · Behavioral)
++ Building  : Academic projects at New Era University
++ Goal      : Full-Stack Developer
+- Nemeses   : NullPointerException · merge conflicts · undocumented APIs
 ```
 
 ---
 
-## 🕸️ Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/MicoleKurt">
-    <img src="https://img.shields.io/badge/GitHub-MicoleKurt-CC0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MicoleKurt-CC0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MicoleKurt)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MicoleKurt&color=CC0000&style=for-the-badge&label=VISITORS"/>
-</p>
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:CC0000,100:FF0000&height=120&section=footer&animation=fadeIn)
+```
+    ╭──────────────────────────────────────────╮
+    │                                          │
+    │   Threads of logic. Webs of structure.   │
+    │         One commit at a time.            │
+    │                                          │
+    ╰──────────────────────────────────────────╯
+                        🕷️
+```
+
+*138 contributions and counting.*
 
 </div>
