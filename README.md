@@ -1,4 +1,3 @@
-
 <div align="center">
 <br/>
 
@@ -130,7 +129,6 @@ const QUEENeeGlassAluminumWorks = {
   features : [ "Product catalog", "Before/after install slider", "Direct contact" ],
   status   : "LIVE ●",
 }
-// → https://queenee-glass-aluminum-works.netlify.app/
 
 const OsmontWaterTechnologies = {
   type     : "Corporate Website",
@@ -140,7 +138,6 @@ const OsmontWaterTechnologies = {
   features : [ "16 service categories", "Chemical & engineering catalog", "Contact section" ],
   status   : "LIVE ●",
 }
-// → https://osmont-water-technologies.netlify.app/
 
 const JunBaluyotDesigner = {
   type     : "Portfolio Website",
@@ -150,8 +147,15 @@ const JunBaluyotDesigner = {
   features : [ "Gown collections gallery", "Pageant accolades", "Atelier booking" ],
   status   : "LIVE ●",
 }
-// → https://junbaluyot-designer.netlify.app/
 ```
+
+<br/>
+
+| Project | Type | Link |
+|---|---|:---:|
+| QUEENee Glass & Aluminum Works | Business Website | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
+| OSMONT Water Technologies | Corporate Website | [Visit →](https://osmont-water-technologies.netlify.app/) |
+| Jun Baluyot — Couture Fashion Designer | Portfolio Website | [Visit →](https://junbaluyot-designer.netlify.app/) |
 
 <br/>
 
