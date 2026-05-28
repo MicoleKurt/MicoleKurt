@@ -265,9 +265,6 @@ Working through the full GoF catalog in Java — each repository includes implem
 ---
 
 
-
----
-
 <div align="center">
 
 <br/>
