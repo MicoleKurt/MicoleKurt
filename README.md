@@ -1,159 +1,112 @@
 <div align="center">
-<br/>
 
-`⚙   SOFTWARE ENGINEERING IN PROCESS   ·   STILL LEARNING   ⚙`
-
-<br/><br/>
-
-# MICOLE KURT GONDA
-
-<sub>BS COMPUTER SCIENCE · NEW ERA UNIVERSITY · 3RD YEAR · QUEZON CITY, PH</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%C2%B7%20New%20Era%20University%20%C2%B7%20Quezon%20City%2C%20PH&descSize=14&descAlignY=60&descColor=c9d1d9" />
 
 <br/>
 
-<kbd>Java</kbd> &nbsp; <kbd>React</kbd> &nbsp; <kbd>Supabase</kbd> &nbsp; <kbd>Firebase</kbd> &nbsp; <kbd>Oracle Cloud</kbd> &nbsp; <kbd>Netlify</kbd> &nbsp; <kbd>Vercel</kbd>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=⚙+Software+Engineering+in+Process+⚙;Still+Learning+·+Still+Building;Java+·+React+·+Supabase+·+Oracle+Cloud;Open+to+Collaborations+%26+Code+Reviews" alt="Typing SVG" />
 
 <br/><br/>
+
+![GitHub followers](https://img.shields.io/github/followers/MicoleKurt?style=flat-square&logo=github&labelColor=161B22&color=21262D&label=Followers)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=MicoleKurt&style=flat-square&color=58a6ff&labelColor=161B22&label=Profile+Views)
+&nbsp;
+![Location](https://img.shields.io/badge/📍_Quezon_City-Philippines-21262D?style=flat-square&labelColor=161B22)
+&nbsp;
+![UTC](https://img.shields.io/badge/🕐_UTC-+08:00-21262D?style=flat-square&labelColor=161B22)
 
 </div>
 
 ---
 
-```css
-/* ┌──────────────────────────────────────────────────────────────────┐ */
-/* │                      MICOLE KURT GONDA                          │ */
-/* └──────────────────────────────────────────────────────────────────┘ */
+## 🧑‍💻 Profile
 
-.profile {
-  school   : "New Era University";
-  degree   : "BS Computer Science — 3rd Year (2023 → present)";
-  location : "Quezon City, Philippines";
-}
-
-.engineering {
-  primary  : "Java";
-  web      : "React 18 + Vite + Tailwind CSS";
-  backend  : "Supabase · Firebase · PostgreSQL · IBM DB2";
-  cloud    : "Oracle Cloud Infrastructure · Oracle AI · Oracle Data";
-  auth     : "Google OAuth 2.0 · Firebase Authentication";
-  deploy   : "Netlify · Vercel";
-  tooling  : "VS Code · Eclipse IDE · Git · Lucidchart";
-}
-
-.focus {
-  paradigm  : "OOP · SOLID Principles · GoF Design Patterns";
-  currently : "Design Patterns arc — Creational · Structural · Behavioral";
-  building  : "Client websites · Academic full-stack systems";
-  targeting : "Full-Stack Developer";
-}
-
-.known_issues : [ NullPointerException, merge_conflicts, undocumented_APIs ];
-```
-
-<br/>
+| | |
+|---|---|
+| 🏫 **School** | New Era University — BS Computer Science |
+| 📅 **Year** | 3rd Year (2023 → present) |
+| 📍 **Location** | Quezon City, Philippines |
+| 🎯 **Targeting** | Full-Stack Developer — React · Node · PostgreSQL |
+| 🔭 **Currently** | Design Patterns arc — Creational · Structural · Behavioral |
+| ⚡ **Known Issues** | `NullPointerException` · merge conflicts at 2am · undocumented APIs |
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
+**Languages**
 
-<kbd>Java</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>Python</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>PL/pgSQL</kbd>
+[![Languages](https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark)](https://skillicons.dev)
 
-<br/><br/>
-</details>
+**Frontend & Frameworks**
 
-<details open>
-<summary><b>Frameworks & Tooling</b></summary>
-<br/>
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-<kbd>React 18</kbd> &nbsp; <kbd>Tailwind CSS v3</kbd> &nbsp; <kbd>React Router v6</kbd> &nbsp; <kbd>Context API</kbd> &nbsp; <kbd>Vite</kbd> &nbsp; <kbd>Vitest</kbd> &nbsp; <kbd>ESLint</kbd> &nbsp; <kbd>VS Code</kbd> &nbsp; <kbd>Eclipse IDE</kbd> &nbsp; <kbd>Git</kbd> &nbsp; <kbd>GitHub</kbd> &nbsp; <kbd>Lucidchart</kbd> &nbsp; <kbd>UML</kbd>
+**Backend, Cloud & Data**
 
-<br/><br/>
-</details>
+[![Backend](https://skillicons.dev/icons?i=supabase,firebase,postgres&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+&nbsp;
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=flat-square&logo=ibm&logoColor=white)
+&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<details open>
-<summary><b>Cloud & Data</b></summary>
-<br/>
+**Tooling**
 
-<kbd>Supabase</kbd> &nbsp; <kbd>Firebase</kbd> &nbsp; <kbd>Google OAuth 2.0</kbd> &nbsp; <kbd>PostgreSQL</kbd> &nbsp; <kbd>IBM DB2 Cloud</kbd> &nbsp; <kbd>Oracle Cloud</kbd> &nbsp; <kbd>Netlify</kbd> &nbsp; <kbd>Vercel</kbd>
-
-<br/><br/>
-</details>
-
----
-
-## Live Projects
-
-```js
-// ── CLIENT WEBSITES ──────────────────────────────────────────────────
-
-const QUEENeeGlassAluminumWorks = {
-  type     : "Business Website",
-  client   : "QUEENee Glass & Aluminum Works",
-  location : "General Santos City, Philippines",
-  stack    : [ "HTML5", "CSS3", "JavaScript", "Netlify" ],
-  features : [ "Product catalog", "Before/after install slider", "Direct contact" ],
-  status   : "LIVE 🟢"
-}
-
-const OsmontWaterTechnologies = {
-  type     : "Corporate Website",
-  client   : "OSMONT Water Technologies",
-  location : "Navotas City, Philippines",
-  stack    : [ "HTML5", "CSS3", "JavaScript", "Netlify" ],
-  features : [ "16 service categories", "Chemical & engineering catalog", "Contact section" ],
-  status   : "LIVE 🟢"
-}
-
-const JunBaluyotDesigner = {
-  type     : "Portfolio Website",
-  client   : "Jun Baluyut — Couture Fashion Designer",
-  location : "San Antonio, Pampanga, Philippines",
-  stack    : [ "HTML5", "CSS3", "JavaScript", "Netlify" ],
-  features : [ "Gown collections gallery", "Pageant accolades", "Atelier booking" ],
-  status   : "LIVE 🟢"
-}
-```
-
-<br/>
-
-| Project | Type | Link |
-|---|---|:---:|
-| QUEENee Glass & Aluminum Works | Business Website | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
-| OSMONT Water Technologies | Corporate Website | [Visit →](https://osmont-water-technologies.netlify.app/) |
-| Jun Baluyot — Couture Fashion Designer | Portfolio Website | [Visit →](https://junbaluyot-designer.netlify.app/) |
-
-<br/>
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+&nbsp;
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=flat-square&logo=lucidchart&logoColor=white)
 
 ---
 
-## Design Patterns Arc
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MicoleKurt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoleKurt&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MicoleKurt&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## 🌐 Live Projects
+
+| Project | Stack | Status | Link |
+|---|---|:---:|:---:|
+| **QUEENee Glass & Aluminum Works** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
+| **OSMONT Water Technologies** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://osmont-water-technologies.netlify.app/) |
+| **Jun Baluyot — Couture Fashion Designer** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://junbaluyot-designer.netlify.app/) |
+
+---
+
+## 📐 Design Patterns Arc
 
 > Working through the full GoF catalog in Java — each repo includes implementation, UML diagram, and annotated analysis.
 
-<br/>
-
 | # | Repository | Category | What it demonstrates |
 |:---:|---|:---:|---|
-| `01` | [**CommandPattern**](https://github.com/MicoleKurt/CommandPattern) | Behavioral | Requests as objects — undoable operations, action queuing, decoupled invoker/receiver |
-| `02` | [**Adapter-Pattern**](https://github.com/MicoleKurt/Adapter-Pattern) | Structural | Bridging incompatible interfaces — wrap legacy code without modifying it |
-| `03` | [**Facade-Pattern**](https://github.com/MicoleKurt/Facade-Patern) | Structural | Unified high-level interface over a complex subsystem — reduce client coupling |
-| `04` | [**Prototype-Design-Pattern**](https://github.com/MicoleKurt/Prototype-Design-Pattern) | Creational | Clone objects efficiently — decouple instantiation logic from implementation |
-| `05` | [**Solid-Design-Pattern**](https://github.com/MicoleKurt/Solid-Design-Pattern) | Principles | SRP · OCP · LSP · ISP · DIP applied end-to-end across a real Java codebase |
-| `06` | [**Component-Design-Pattern**](https://github.com/MicoleKurt/Component-Design-Pattern-) | Structural | Modular, composable component hierarchies for scalable, maintainable systems |
-
-<br/>
+| `01` | [**CommandPattern**](https://github.com/MicoleKurt/CommandPattern) | `Behavioral` | Requests as objects — undoable operations, action queuing, decoupled invoker/receiver |
+| `02` | [**Adapter-Pattern**](https://github.com/MicoleKurt/Adapter-Pattern) | `Structural` | Bridging incompatible interfaces — wrap legacy code without modifying it |
+| `03` | [**Facade-Pattern**](https://github.com/MicoleKurt/Facade-Patern) | `Structural` | Unified high-level interface over a complex subsystem — reduce client coupling |
+| `04` | [**Prototype-Design-Pattern**](https://github.com/MicoleKurt/Prototype-Design-Pattern) | `Creational` | Clone objects efficiently — decouple instantiation logic from implementation |
+| `05` | [**Solid-Design-Pattern**](https://github.com/MicoleKurt/Solid-Design-Pattern) | `Principles` | SRP · OCP · LSP · ISP · DIP applied end-to-end across a real Java codebase |
+| `06` | [**Component-Design-Pattern**](https://github.com/MicoleKurt/Component-Design-Pattern-) | `Structural` | Modular, composable component hierarchies for scalable, maintainable systems |
 
 ---
 
-## Certifications
-
-<details>
-<summary><b>View all credentials</b></summary>
-<br/>
+## 🏅 Certifications
 
 | Certification | Issuer | Credential |
 |---|---|:---:|
@@ -162,14 +115,9 @@ const JunBaluyotDesigner = {
 | Oracle Cloud Data Management Foundations Associate | Oracle | [Verify ↗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E327A58DD54BCBEA485E20C60BB91FD7D87) |
 | Oracle Cloud Infrastructure AI Foundations Associate 2024 | Oracle | [Verify ↗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E325F236FEE3CDE624C44BA07EB1D9D4A9F) |
 
-<br/>
-</details>
-
-<br/>
-
 ---
 
-## Proficiency
+## 📈 Proficiency
 
 ```
   Java                    ████████████████░░░░  80%  primary language
@@ -193,7 +141,7 @@ const JunBaluyotDesigner = {
 
 ---
 
-## Status
+## 🔄 Status
 
 ```diff
 + Learning   Design Patterns in Java — working through the full GoF catalog
@@ -211,16 +159,10 @@ const JunBaluyotDesigner = {
 
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer" />
 
 **[github.com/MicoleKurt](https://github.com/MicoleKurt)**
 
 <sub>Open to collaborations, code reviews, and conversations about software design.</sub>
-
-<br/>
-
-<sub>Quezon City · Philippines · UTC +08:00</sub>
-
-<br/>
 
 </div>
