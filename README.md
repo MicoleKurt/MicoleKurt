@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 <br/>
 
@@ -296,5 +295,3 @@ Working through the full GoF catalog in Java — each repository includes implem
 <br/>
 
 </div>
-ENDOFFILE
-echo "Done"
