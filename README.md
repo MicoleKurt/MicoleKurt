@@ -264,19 +264,7 @@ Working through the full GoF catalog in Java — each repository includes implem
 
 ---
 
-## Status
 
-```diff
-+ Learning   Design Patterns in Java — working through the full GoF catalog
-+ Practicing SOLID across every active repository
-+ Building   Client websites — HTML · CSS · JS · Netlify
-+ Studying   Oracle Cloud Infrastructure and IBM DB2 data management
-+ Targeting  Full-Stack Developer — React · Node · PostgreSQL track
-
-- Blocked by NullPointerException (ongoing, unresolved)
-- Blocked by merge conflicts at 2am (recurring)
-- Blocked by undocumented third-party APIs (permanent condition)
-```
 
 ---
 
