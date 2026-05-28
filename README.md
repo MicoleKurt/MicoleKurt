@@ -3,11 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%C2%B7%20New%20Era%20University%20%C2%B7%20Quezon%20City%2C%20PH&descSize=14&descAlignY=60&descColor=c9d1d9" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=⚙+Software+Engineering+in+Process+⚙;Still+Learning+·+Still+Building;Java+·+React+·+Supabase+·+Oracle+Cloud;Open+to+Collaborations+%26+Code+Reviews" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%E2%9A%99+Software+Engineering+in+Process+%E2%9A%99;Still+Learning+%C2%B7+Still+Building;Java+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Oracle+Cloud;Open+to+Collaborations+%26+Code+Reviews" alt="Typing SVG" />
 <br/><br/>
-
 ![GitHub followers](https://img.shields.io/github/followers/MicoleKurt?style=flat-square&logo=github&labelColor=161B22&color=21262D&label=Followers)
 &nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=MicoleKurt&style=flat-square&color=58a6ff&labelColor=161B22&label=Profile+Views)
