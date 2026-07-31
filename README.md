@@ -24,8 +24,9 @@
 | 🏫 **School** | New Era University — BS Computer Science |
 | 📅 **Year** | 3rd Year (2023 → present) |
 | 📍 **Location** | Quezon City, Philippines |
-| 🎯 **Targeting** | Full-Stack Developer — React · Node · PostgreSQL |
-| 🔭 **Currently** | Design Patterns arc — Creational · Structural · Behavioral |
+| 💼 **Currently** | AI Technical Consultant — Toll Regulatory Board, Republic of the Philippines |
+| 🎯 **Targeting** | Backend / AI Engineer — Next.js · FastAPI · PostgreSQL · Agentic Systems |
+| 🔭 **Building** | Agentic AI platform · IRIS road-inspection system · GoF pattern catalog |
 | ⚡ **Known Issues** | `NullPointerException` · merge conflicts at 2am · undocumented APIs |
 
 ---
@@ -34,27 +35,89 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,python,php,html,css&theme=dark)](https://skillicons.dev)
+&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend & Frameworks**
 
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
+&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+&nbsp;
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+&nbsp;
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**Backend, Cloud & Data**
+**Backend & APIs**
 
-[![Backend](https://skillicons.dev/icons?i=supabase,firebase,postgres&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+&nbsp;
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+&nbsp;
+![JWT](https://img.shields.io/badge/JWT_%C2%B7_OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases & Data**
+
+[![Data](https://skillicons.dev/icons?i=postgres,supabase,firebase,mysql,sqlite&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+&nbsp;
+![Row Level Security](https://img.shields.io/badge/Row_Level_Security-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+&nbsp;
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=flat-square&logo=ibm&logoColor=white)
+
+**AI & Agentic Systems**
+
+[![AI](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+&nbsp;
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+&nbsp;
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-8A63D2?style=flat-square)
+&nbsp;
+![Subagents](https://img.shields.io/badge/Agent_Orchestration-58A6FF?style=flat-square)
+&nbsp;
+![RAG](https://img.shields.io/badge/RAG_Pipelines-21262D?style=flat-square)
+&nbsp;
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+&nbsp;
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Mobile**
+
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
+
+**Cloud, Deployment & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=docker,vercel,netlify&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 &nbsp;
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Architecture & Practice**
+
+![SOLID](https://img.shields.io/badge/SOLID_Principles-21262D?style=flat-square)
 &nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GoF](https://img.shields.io/badge/GoF_Design_Patterns-21262D?style=flat-square)
 &nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC_%C2%B7_Audit_Trails-21262D?style=flat-square)
+&nbsp;
+![Agile](https://img.shields.io/badge/Agile_%C2%B7_Scrum-21262D?style=flat-square)
+&nbsp;
+![UML](https://img.shields.io/badge/UML_%C2%B7_System_Design-21262D?style=flat-square)
 
 **Tooling**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 &nbsp;
@@ -82,9 +145,23 @@
 
 | Project | Stack | Status | Link |
 |---|---|:---:|:---:|
+| **HopeSMS — Sales Management System** | React · Supabase · PostgreSQL · RLS · Vercel | 🟢 LIVE | [Visit →](https://hope-sales.vercel.app/dashboard) |
+| **PH Tollmaster Calculator** | React · JavaScript · Netlify | 🟢 LIVE | [Visit →](https://ph-tollmaster-calculator.netlify.app/) |
 | **QUEENee Glass & Aluminum Works** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
 | **OSMONT Water Technologies** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://osmont-water-technologies.netlify.app/) |
 | **Jun Baluyot — Couture Fashion Designer** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://junbaluyot-designer.netlify.app/) |
+
+---
+
+## 🏛️ Government Systems
+
+> Built under independent consultancy for the **Toll Regulatory Board**, Republic of the Philippines. Source not public — architecture walkthroughs available on request.
+
+| System | Stack | What it does |
+|---|---|---|
+| **TRB Regulatory Platform** | Next.js · TypeScript · PostgreSQL · Drizzle · Supabase · Zod · Vercel | Multi-module ERP for a regulator — legal, financial, project monitoring, TCS, TSF evaluation, RST maintenance, communications. RBAC, audit trails, scheduled jobs, PDF/Excel reporting. |
+| **IRIS — Intelligent Road Inspection System** | FastAPI · YOLOv8 · OpenCV · Flutter · GeoPandas · Next.js | AI road-condition assessment on the iRAP star-rating methodology. Pavement-distress detection, quarter-car IRI modelling, roadside-severity scoring, GIS dashboard. |
+| **Agent Orchestration** | Claude Code · MCP · Anthropic API | Specialized subagents with delegation boundaries, project instruction sets encoding domain rules, MCP servers wiring agents to real tools. |
 
 ---
 
@@ -117,23 +194,33 @@
 ## 📈 Proficiency
 
 ```
-  Java                    ████████████████░░░░  80%  primary language
+  TypeScript / Next.js    ██████████████████░░  90%  production platform
+  Claude Code / MCP       ██████████████████░░  90%  daily agentic workflow
+  PostgreSQL / Drizzle    █████████████████░░░  85%  schema · rbac · audit
+  Supabase / RLS          █████████████████░░░  85%  db · auth · row-level policy
+  React + Vite            ████████████████░░░░  80%  client + internal systems
+  Java                    ████████████████░░░░  80%  primary academic language
   HTML / CSS              ████████████████░░░░  80%  client websites
-  VS Code                 ████████████████░░░░  80%  daily driver (web)
-  Eclipse IDE             ████████████████░░░░  80%  daily driver (java)
   SOLID Principles        ████████████████░░░░  80%  applied across all repos
+  Tailwind CSS            ████████████████░░░░  80%  utility-first styling
   ──────────────────────────────────────────────────────────────────────
-  Design Patterns (GoF)   ██████████████░░░░░░  70%  catalog in progress
   JavaScript              ██████████████░░░░░░  70%  web + react
+  Python / FastAPI        ██████████████░░░░░░  70%  ai backend services
+  Design Patterns (GoF)   ██████████████░░░░░░  70%  catalog in progress
+  Zod / Pydantic          ██████████████░░░░░░  70%  typed validation layers
+  Vercel / Netlify        ██████████████░░░░░░  70%  deployment
   Lucidchart / UML        ██████████████░░░░░░  70%  system design
   ──────────────────────────────────────────────────────────────────────
-  React + Vite            ████████████░░░░░░░░  60%  academic full-stack
-  Tailwind CSS v3         ████████████░░░░░░░░  60%  utility-first styling
-  Supabase / PostgreSQL   ████████████░░░░░░░░  60%  db · auth · rls
+  RAG / LLM Integration   ████████████░░░░░░░░  60%  retrieval · context design
+  Computer Vision         ████████████░░░░░░░░  60%  yolov8 · opencv
   Firebase + Google Auth  ████████████░░░░░░░░  60%  authentication
-  IBM DB2 Cloud           ████████████░░░░░░░░  60%  relational db
+  PHP / Laravel           ████████████░░░░░░░░  60%  coursework + web apps
   Oracle Cloud            ████████████░░░░░░░░  60%  iaas · data · ai
-  Netlify / Vercel        ████████████░░░░░░░░  60%  deployment
+  IBM DB2 Cloud           ████████████░░░░░░░░  60%  relational db
+  ──────────────────────────────────────────────────────────────────────
+  Flutter / Dart          ██████████░░░░░░░░░░  50%  mobile capture app
+  Docker                  ██████████░░░░░░░░░░  50%  containerised services
+  NumPy / pandas          ██████████░░░░░░░░░░  50%  data processing
 ```
 
 ---
