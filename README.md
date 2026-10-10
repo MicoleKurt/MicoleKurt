@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20ML%20Engineer&descSize=15&descAlignY=60&descColor=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20AI%20Technical%20Consultant&descSize=15&descAlignY=60&descColor=c9d1d9" />
 
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%E2%9A%99+I+build+systems+that+refuse+to+guess+%E2%9A%99;AI+Technical+Consultant+%E2%80%94+Toll+Regulatory+Board;YOLOv8+%C2%B7+PyTorch+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Claude+Code;Agentic+Systems+%C2%B7+RAG+%C2%B7+Computer+Vision" alt="Typing SVG" />
@@ -28,13 +28,12 @@
 
 | | |
 |---|---|
-| 🏫 **School** | New Era University — BS Computer Science (expected 2027) |
-| 🏅 **Honors** | Dean's Lister — three consecutive years (2023–24, 2024–25, 2025–26) |
-| 📍 **Location** | Quezon City, Philippines · GMT+8 · open to remote |
-| 💼 **Currently** | Software Engineer / AI Engineer / AI Technical Consultant — Toll Regulatory Board, Republic of the Philippines |
-| 🔭 **Building** | IRIS road-inspection ML pipeline · regulatory operations platform · agentic document systems |
-| 🎯 **Targeting** | AI / ML Engineer · Backend — Next.js · FastAPI · PostgreSQL · agentic systems |
-| ⚡ **Known Issues** | `NullPointerException` · merge conflicts at 2am · undocumented APIs |
+| 🎓 **Education** | 4th-year Computer Science student, New Era University (expected 2027) · Dean's Lister, three consecutive years |
+| 🛠️ **Experience** | 3 years of experience building systems as a computer science major, now in client and contract work |
+| 🏛️ **Toll Regulatory Board** | Software Engineer / AI Engineer / AI Technical Consultant, personal independent contract to the Chief of the Regulation Division (2026, completed). I engineered the TRB platform and taught the IT team to maintain the website I made. |
+| 📍 **Location** | Quezon City, Philippines · GMT+8 · remote, with US Eastern hours covered |
+| 🎯 **Looking for** | A long-term role: Software / AI Engineer · Next.js · Python · PostgreSQL · agentic systems · n8n automation |
+| 📄 **Resume** | [CV (PDF)](https://drive.google.com/file/d/1fNb8fFZgQcSBA9JgoqXfx8qnSCr3zH11/view?usp=sharing) · [Portfolio](https://ico-portfolio.vercel.app/) |
 
 ---
 
@@ -171,16 +170,17 @@ A finding derived from a model whose training data cannot be reconstructed canno
 
 ---
 
-## 🏛️ Systems in Production
+## 🏛️ Systems I've Built
 
-> Built under independent consultancy for the **Toll Regulatory Board**, Republic of the Philippines, and for private clients. I'm the only engineer on the systems built under that contract. Source is under confidentiality — architecture walkthroughs available on request.
+> Built on a personal independent contract for the **Toll Regulatory Board**, Republic of the Philippines (2026, completed), and for private clients. Agency source and data are confidential and handled under RA 10173; details are available under NDA.
 
 | System | Stack | What it does |
 |---|---|---|
-| **TRB Regulatory Operations Platform** | Next.js · TypeScript · PostgreSQL · Drizzle · Supabase · Zod · Vercel | Nine divisional modules — legal, financial, project monitoring, concession evaluation, maintenance, communications, complaints, audit — on a 22-table schema with type-safe migrations. Google OAuth SSO, multi-tier RBAC, full audit logging, nonce-based CSP. PDF/XLSX ingestion that removed manual re-encoding, plus S-curve project-progress tracking. `~8,200 lines · 105 modules` |
-| **DBC AI Brain** | Cloudflare Workers · Supabase/pgvector · React · Anthropic & Vertex AI | Retrieval-augmented assistant platform for a US home-buying business. 14 versioned SQL migrations including a row-level-security policy layer and function-exposure hardening — **access control enforced in the database, not the prompt.** `~4,100 lines of SQL` |
-| **Asset Factory** | Python · WordPress & Rank Math REST APIs · pytest | Config-driven production automation with dry-run, idempotency, and rollback. Validation keys on whether a value is *approved*, not whether it is *present* — anything unconfirmed escalates to a human instead of being guessed. It caught a placeholder phone number before it reached a live site. `~5,500 lines · 20 modules · 108 tests` |
-| **Autonomous Agent Systems** | Python · TypeScript · Ollama · Groq · Claude Code · MCP | Tool-calling agents on hosted and self-hosted models. One enforces authority **in code** — a change is refused unless it cites an approved backing field, with every refusal written to an audit log. Another runs 57 registered tool definitions across filesystem, browser automation, and application control. |
+| **TRB Regulatory Operations Platform** | Next.js · TypeScript · PostgreSQL · Drizzle · Supabase · Zod · Vercel | Internal platform built end to end: data model, API, access control and deployment. Details withheld. |
+| **Asset Factory** ([repo](https://github.com/MicoleKurt/asset-factory)) | Python · WordPress & Rank Math REST APIs · pytest | Config-driven production automation with dry-run, idempotency and rollback. Validation keys on whether a value is *approved*, not whether it is *present*, so anything unconfirmed escalates to a human instead of being guessed. `~5,500 lines · 20 modules · 108 tests` |
+| **n8n workflows as code** ([repo](https://github.com/MicoleKurt/n8n-workflows-as-code)) | n8n · JavaScript · Python | AI support triage (19 nodes: Gmail, gpt-4o-mini classifier, deterministic routing, Slack) and a lead-intake workflow. |
+| **One Login** ([repo](https://github.com/MicoleKurt/one-login)) | Next.js · TypeScript · Supabase · Row Level Security | Money-in, money-out and profit on one screen for tradies, with two-step verification and a 36-attack test script. |
+| **Autonomous Agent Systems** | Python · TypeScript · Ollama · Groq · Claude Code · MCP | Tool-calling agents on hosted and self-hosted models. One enforces authority **in code**: a change is refused unless it cites an approved backing field, with every refusal written to an audit log. Another runs 57 registered tool definitions across filesystem, browser automation and application control. |
 
 ---
 
@@ -188,13 +188,25 @@ A finding derived from a model whose training data cannot be reconstructed canno
 
 | Project | Stack | Status | Link |
 |---|---|:---:|:---:|
-| **HopeSMS — Sales Management System** | React · Supabase · PostgreSQL · RLS · Vercel | 🟢 LIVE | [Visit →](https://hope-sales.vercel.app/dashboard) |
+| **HopeSMS — Sales Management System** | React · Supabase · PostgreSQL · RLS · Vercel | 📦 SOURCE | [GitHub →](https://github.com/EranJosh/HopeSMS-Sales-Mngmt-System) |
 | **PH Tollmaster Calculator** | React · JavaScript · Netlify | 🟢 LIVE | [Visit →](https://ph-tollmaster-calculator.netlify.app/) |
 | **QUEENee Glass & Aluminum Works** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
 | **OSMONT Water Technologies** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://osmont-water-technologies.netlify.app/) |
 | **Jun Baluyot — Couture Fashion Designer** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://junbaluyot-designer.netlify.app/) |
 
-<sub>HopeSMS was a two-person build with <a href="https://github.com/EranJosh">Eran Josh Reyes</a>.</sub>
+<sub>HopeSMS was built together with <a href="https://github.com/EranJosh">Eran Josh Reyes</a>; the repository has the full pull-request history.</sub>
+
+---
+
+## 📦 Public Repositories
+
+| Repository | What it is |
+|---|---|
+| [**asset-factory**](https://github.com/MicoleKurt/asset-factory) | Python WordPress production automation: validate, audit, plan, apply, rollback. 108 tests. |
+| [**n8n-workflows-as-code**](https://github.com/MicoleKurt/n8n-workflows-as-code) | AI support triage and lead intake, both written as code. |
+| [**one-login**](https://github.com/MicoleKurt/one-login) | Next.js + Supabase money dashboard with row-level security and a 36-attack test script. |
+| [**little-lemon-capstone**](https://github.com/MicoleKurt/little-lemon-capstone) | MySQL booking system: schema, stored procedures, Python client, ER diagram, Tableau data. |
+| [**HopeSMS**](https://github.com/EranJosh/HopeSMS-Sales-Mngmt-System) | React + Supabase sales management system, built with Eran Josh Reyes. |
 
 ---
 
@@ -216,15 +228,33 @@ A finding derived from a model whose training data cannot be reconstructed canno
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Credential |
+Programmes and specializations (individual courses inside them are not listed separately). 40+ credentials in total; every public verification link is on the [portfolio](https://ico-portfolio.vercel.app/).
+
+| Programme | Issuer | Credential |
 |---|---|:---:|
-| Google AI Professional Certificate | Google · Coursera | *8 courses — AI fundamentals, research, data analysis, app building & deployment* |
-| IBM Data Engineering Professional Certificate | IBM · Coursera | *in progress* |
-| SQL and Relational Databases 101 | IBM · Cognitive Class | [Verify ↗](https://courses.cognitiveclass.ai/certificates/4e4c7dc978fa4d9ca4a74211e034b51e) |
-| Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle | [Verify ↗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E325F236FEE3CDE624C44BA07EB1D9D4A9F) |
-| Oracle Cloud Data Management Foundations Associate | Oracle | [Verify ↗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E327A58DD54BCBEA485E20C60BB91FD7D87) |
-| Oracle Cloud Infrastructure AI Foundations Associate 2024 | Oracle | [Verify ↗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22EB3D80EA6E24E346FA5AD51BE48E325F236FEE3CDE624C44BA07EB1D9D4A9F) |
-| Web Security — PortSwigger Academy | PortSwigger | *injection · XSS · CSRF · XXE · SSRF · auth/JWT/OAuth bypasses, with written walkthroughs* |
+| Google AI Professional Certificate | Google via Coursera | [Verify ↗](https://coursera.org/share/7f282bd0a738c40f5f759ed8b962a756) |
+| IBM Data Engineering Professional Certificate | IBM via Coursera | [Verify ↗](https://coursera.org/share/56e7d98808c42a4ae25879b946e64c53) |
+| AWS Cloud Solutions Architect Professional Certificate | Amazon Web Services via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/3TQRYC9SJGL4) |
+| Microsoft Generative AI Engineering Professional Certificate | Microsoft via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/RX7XUP5MFZWD) |
+| AWS Generative AI and AI Agents with Amazon Bedrock Professional Certificate | Amazon Web Services via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/0992N3B9B8D4) |
+| Generative AI Software Engineering Specialization | Vanderbilt University via Coursera | [Verify ↗](https://coursera.org/verify/specialization/5VH4A76AZ9RM) |
+| Software Engineering Specialization | The Hong Kong University of Science and Technology via Coursera | [Verify ↗](https://coursera.org/verify/specialization/4W1V8ZGEBAR7) |
+| AI for Cybersecurity Specialization | Johns Hopkins University via Coursera | [Verify ↗](https://coursera.org/verify/specialization/4NK51XNYTS3X) |
+| Certified Information Systems Security Professional (CISSP) Specialization | Infosec via Coursera | [Verify ↗](https://coursera.org/verify/specialization/ERBG4XWNDA9P) |
+| Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization | Meta via Coursera | [Verify ↗](https://coursera.org/verify/specialization/Y55UCHVTDU6R) |
+| Google AI Essentials Specialization | Google via Coursera | [Verify ↗](https://coursera.org/verify/specialization/FNXF092IYRDB) |
+| Google Business Intelligence Professional Certificate | Google via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/ZF15QMX6AQTP) |
+| Salesforce Sales Operations Professional Certificate | Salesforce and Pathstream via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/W9CX7OE7651P) |
+| Leading the Modern Day Business Specialization | University of Virginia and Boston Consulting Group via Coursera | [Verify ↗](https://coursera.org/verify/specialization/ONCTAM1YOC55) |
+| Real-World AI with Claude Specialization | Advancing Women in Tech and Anthropic via Coursera | [Verify ↗](https://coursera.org/verify/specialization/RPVTBOSUOLJM) |
+| Applied AI in Cybersecurity Specialization | Chegg Skills via Coursera | [Verify ↗](https://coursera.org/verify/specialization/JSLV3PB3SP6S) |
+| AI Engineer Professional Specialization | Packt via Coursera | [Verify ↗](https://coursera.org/verify/specialization/GJ3341L46JPQ) |
+| Introduction to Business Strategy Specialization | Harvard Business School Online via Coursera | [Verify ↗](https://coursera.org/verify/specialization/2O5LIHQM3LJZ) |
+| Oracle Cloud and AI Specialization | Oracle via Coursera | [Verify ↗](https://coursera.org/verify/specialization/S72G4DKZC0FZ) |
+| AI Automation Engineer with n8n Specialization | LearnKartS via Coursera | [Verify ↗](https://coursera.org/verify/specialization/SFQJ6Y9AY6RQ) |
+| Meta Database Engineer Professional Certificate | Meta via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/12NPWZ4RNRGX) |
+| Google IT Support Professional Certificate | Google via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/P0IPEY2413FV) |
+| International Business Specialization | University of Colorado Boulder via Coursera | [Verify ↗](https://coursera.org/verify/specialization/RFBFKNMPQKZ8) |
 
 ---
 
