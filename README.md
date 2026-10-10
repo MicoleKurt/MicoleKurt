@@ -178,6 +178,7 @@ A finding derived from a model whose training data cannot be reconstructed canno
 |---|---|---|
 | **TRB Regulatory Operations Platform** | Next.js · TypeScript · PostgreSQL · Drizzle · Supabase · Zod · Vercel | Internal platform built end to end: data model, API, access control and deployment. Details withheld. |
 | **Asset Factory** ([repo](https://github.com/MicoleKurt/asset-factory)) | Python · WordPress & Rank Math REST APIs · pytest | Config-driven production automation with dry-run, idempotency and rollback. Validation keys on whether a value is *approved*, not whether it is *present*, so anything unconfirmed escalates to a human instead of being guessed. `~5,500 lines · 20 modules · 108 tests` |
+| **Programmatic Elementor Toolkit** ([compiler](https://github.com/MicoleKurt/elementor-layout-compiler) · [REST bridge](https://github.com/MicoleKurt/wp-staging-bridge) · [tenant memory](https://github.com/MicoleKurt/tenant-memory-service)) | Python · PHP · WordPress REST API · Elementor · JSON Schema · Qdrant · FastAPI | AI layout manifests compiled into Elementor `_elementor_data` with hash-locked design tokens and an approval state machine; a WordPress plugin that writes draft pages behind Application Passwords + HMAC, idempotent with read-back verification and rollback; tenant-isolated vector memory with an anonymized shared pattern tier. `45 + 44 + 103 tests in CI` |
 | **n8n workflows as code** ([repo](https://github.com/MicoleKurt/n8n-workflows-as-code)) | n8n · JavaScript · Python | AI support triage (19 nodes: Gmail, gpt-4o-mini classifier, deterministic routing, Slack) and a lead-intake workflow. |
 | **One Login** ([repo](https://github.com/MicoleKurt/one-login)) | Next.js · TypeScript · Supabase · Row Level Security | Money-in, money-out and profit on one screen for tradies, with two-step verification and a 36-attack test script. |
 | **Autonomous Agent Systems** | Python · TypeScript · Ollama · Groq · Claude Code · MCP | Tool-calling agents on hosted and self-hosted models. One enforces authority **in code**: a change is refused unless it cites an approved backing field, with every refusal written to an audit log. Another runs 57 registered tool definitions across filesystem, browser automation and application control. |
@@ -202,11 +203,16 @@ A finding derived from a model whose training data cannot be reconstructed canno
 
 | Repository | What it is |
 |---|---|
+| [**elementor-layout-compiler**](https://github.com/MicoleKurt/elementor-layout-compiler) | Layout manifest + locked design tokens → Elementor container JSON, deterministic, validated. 45 tests. |
+| [**wp-staging-bridge**](https://github.com/MicoleKurt/wp-staging-bridge) | WordPress REST plugin: signed, idempotent, read-back-verified draft Elementor pages. 44 PHPUnit tests. |
+| [**tenant-memory-service**](https://github.com/MicoleKurt/tenant-memory-service) | FastAPI + Qdrant tenant-isolated vector memory with an anonymized layout-pattern tier. 103 tests. |
 | [**asset-factory**](https://github.com/MicoleKurt/asset-factory) | Python WordPress production automation: validate, audit, plan, apply, rollback. 108 tests. |
 | [**n8n-workflows-as-code**](https://github.com/MicoleKurt/n8n-workflows-as-code) | AI support triage and lead intake, both written as code. |
 | [**one-login**](https://github.com/MicoleKurt/one-login) | Next.js + Supabase money dashboard with row-level security and a 36-attack test script. |
 | [**little-lemon-capstone**](https://github.com/MicoleKurt/little-lemon-capstone) | MySQL booking system: schema, stored procedures, Python client, ER diagram, Tableau data. |
 | [**HopeSMS**](https://github.com/EranJosh/HopeSMS-Sales-Mngmt-System) | React + Supabase sales management system, built with Eran Josh Reyes. |
+| [**NEU-MOA-PROJECT**](https://github.com/MicoleKurt/NEU-MOA-PROJECT) | React + Firebase MOA monitoring with student, faculty and admin portals, audit trail. [Live](https://neu-moa-monitoring-556b5.web.app) |
+| [**Neu-Library**](https://github.com/MicoleKurt/Neu-Library) | React + Firebase library visitor log with check-in, roles and an admin dashboard. [Live](https://neu-library-15439.web.app/) |
 
 ---
 
@@ -260,16 +266,21 @@ Programmes and specializations (individual courses inside them are not listed se
 
 ## 📐 Design Patterns Arc
 
-> Working through the GoF catalog in Java — each repo includes implementation, UML diagram, and annotated analysis. Currently private; available on request.
+> Working through the GoF catalog in Java, one small domain model per pattern. All public:
 
-| # | Pattern | Category | What it demonstrates |
-|:---:|---|:---:|---|
-| `01` | **Command** | `Behavioral` | Requests as objects — undoable operations, action queuing, decoupled invoker/receiver |
-| `02` | **Adapter** | `Structural` | Bridging incompatible interfaces — wrap legacy code without modifying it |
-| `03` | **Facade** | `Structural` | Unified high-level interface over a complex subsystem — reduce client coupling |
-| `04` | **Prototype** | `Creational` | Clone objects efficiently — decouple instantiation logic from implementation |
-| `05` | **Composite** | `Structural` | Tree structures where individual objects and compositions are treated uniformly |
-| `06` | **SOLID Principles** | `Principles` | SRP · OCP · LSP · ISP · DIP applied end-to-end across a real Java codebase |
+| Pattern | Category | Repository | Modelled as |
+|---|:---:|---|---|
+| **Singleton** | `Creational` | [SingletonPattern](https://github.com/MicoleKurt/SingletonPattern) | One shared instance with controlled access |
+| **Prototype** | `Creational` | [Prototype](https://github.com/MicoleKurt/Prototype-Design-Pattern) · [Document Prototype](https://github.com/MicoleKurt/Document-Prototype-Design-Pattern) | Cloning PDF, text and spreadsheet documents |
+| **Adapter** | `Structural` | [Adapter-Pattern](https://github.com/MicoleKurt/Adapter-Pattern) · [Seatwork](https://github.com/MicoleKurt/Seatwork_AdapterPattern) | Wrapping an incompatible interface without changing it |
+| **Facade** | `Structural` | [Facade-Patern](https://github.com/MicoleKurt/Facade-Patern) | One entry point over a multi-step subsystem |
+| **Composite** | `Structural` | [University](https://github.com/MicoleKurt/Composite-Design-Pattern-) · [Restaurant menu](https://github.com/MicoleKurt/Component-Design-Pattern-) | College → department → people; menu categories and items |
+| **Observer** | `Behavioral` | [Observer-pattern](https://github.com/MicoleKurt/Observer-pattern) | Subscribers notified on state change |
+| **Strategy** | `Behavioral` | [StrategyAssignment](https://github.com/MicoleKurt/StrategyAssignment) | Swappable attack and defence moves for game characters |
+| **State** | `Behavioral` | [StatePattern](https://github.com/MicoleKurt/StatePattern) · [StateDesignPattern](https://github.com/MicoleKurt/StateDesignPattern) | Behaviour that changes with an object's state |
+| **Visitor** | `Behavioral` | [VisitorPattern](https://github.com/MicoleKurt/VisitorPattern) | Telco promos applied across subscription types |
+| **Chain of Responsibility** | `Behavioral` | [Chain-of-Responsibility](https://github.com/MicoleKurt/Chain-of-Responsibility) · [ATM lab](https://github.com/MicoleKurt/Lab3_behavioral-pattern) | An ATM dispensing peso notes down a chain of handlers |
+| **SOLID** | `Principles` | [Solid-Principles](https://github.com/MicoleKurt/Solid-Principles) · [Solid-Design-Pattern](https://github.com/MicoleKurt/Solid-Design-Pattern) | Order processor with swappable notifiers; library resources split into small interfaces |
 
 ---
 
