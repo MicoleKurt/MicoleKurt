@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20AI%20Technical%20Consultant&descSize=15&descAlignY=60&descColor=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=MICOLE%20KURT%20GONDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Designer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20AI%20Technical%20Consultant&descSize=15&descAlignY=60&descColor=c9d1d9" />
 
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%E2%9A%99+I+build+systems+that+refuse+to+guess+%E2%9A%99;AI+Technical+Consultant+%E2%80%94+Toll+Regulatory+Board;YOLOv8+%C2%B7+PyTorch+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Claude+Code;Agentic+Systems+%C2%B7+RAG+%C2%B7+Computer+Vision" alt="Typing SVG" />
@@ -28,12 +28,12 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | 4th-year Computer Science student, New Era University (expected 2027) · Dean's Lister, three consecutive years |
-| 🛠️ **Experience** | 3 years of experience building systems as a computer science major, now in client and contract work |
-| 🏛️ **Toll Regulatory Board** | Software Engineer / AI Engineer / AI Technical Consultant, personal independent contract to the Chief of the Regulation Division (2026, completed). I engineered the TRB platform and taught the IT team to maintain the website I made. |
+| 🎓 **Education** | BS Computer Science, New Era University (expected 2027) · Dean's Lister, three consecutive years |
+| 🛠️ **Experience** | 3 years of experience building systems as a computer science major, now in client and contract work. Web Designer for [Nexus Collaboration Philippines](https://www.nexuscollaboration.ph) (Squarespace) |
+| 🏛️ **Toll Regulatory Board** | Software Engineer / AI Engineer / AI Technical Consultant, the Philippine government's national regulator of toll roads (Presidential Decree No. 1112); personal independent contract to the Chief of the Regulation Division (2026, completed). I engineered the TRB platform and taught the IT team to maintain the website I made. |
 | 📍 **Location** | Quezon City, Philippines · GMT+8 · remote, with US Eastern hours covered |
-| 🎯 **Looking for** | A long-term role: Software / AI Engineer · Next.js · Python · PostgreSQL · agentic systems · n8n automation |
-| 📄 **Resume** | [CV (PDF)](https://drive.google.com/file/d/1fNb8fFZgQcSBA9JgoqXfx8qnSCr3zH11/view?usp=sharing) · [Portfolio](https://ico-portfolio.vercel.app/) |
+| 🎯 **Looking for** | A long-term role: Web Designer / Software Engineer / AI Engineer · Next.js · Python · PostgreSQL · agentic systems · n8n automation |
+| 📄 **CV and more** | [Portfolio](https://ico-portfolio.vercel.app/) (the CV button in the header downloads my latest CV; IRIS, Nova, J.A.R.V.I.S., the design work and my GitHub projects are there) · [LinkedIn](https://www.linkedin.com/in/micole-kurt-gonda-642913414/) |
 
 ---
 
@@ -190,6 +190,7 @@ A finding derived from a model whose training data cannot be reconstructed canno
 | Project | Stack | Status | Link |
 |---|---|:---:|:---:|
 | **HopeSMS — Sales Management System** | React · Supabase · PostgreSQL · RLS · Vercel | 📦 SOURCE | [GitHub →](https://github.com/EranJosh/HopeSMS-Sales-Mngmt-System) |
+| **Nexus Collaboration Philippines** (I am the web designer) | Squarespace · Web Design | 🟢 LIVE | [Visit →](https://www.nexuscollaboration.ph) |
 | **PH Tollmaster Calculator** | React · JavaScript · Netlify | 🟢 LIVE | [Visit →](https://ph-tollmaster-calculator.netlify.app/) |
 | **QUEENee Glass & Aluminum Works** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://queenee-glass-aluminum-works.netlify.app/) |
 | **OSMONT Water Technologies** | HTML5 · CSS3 · JS · Netlify | 🟢 LIVE | [Visit →](https://osmont-water-technologies.netlify.app/) |
@@ -208,6 +209,8 @@ A finding derived from a model whose training data cannot be reconstructed canno
 | [**tenant-memory-service**](https://github.com/MicoleKurt/tenant-memory-service) | FastAPI + Qdrant tenant-isolated vector memory with an anonymized layout-pattern tier. 103 tests. |
 | [**asset-factory**](https://github.com/MicoleKurt/asset-factory) | Python WordPress production automation: validate, audit, plan, apply, rollback. 108 tests. |
 | [**n8n-workflows-as-code**](https://github.com/MicoleKurt/n8n-workflows-as-code) | AI support triage and lead intake, both written as code. |
+| [**webflow-site-audit**](https://github.com/MicoleKurt/webflow-site-audit) | Node.js audit of a site's structure and markup. 43 tests. |
+| [**gohighlevel-dev-toolkit**](https://github.com/MicoleKurt/gohighlevel-dev-toolkit) | TypeScript HighLevel API v2 client, Ed25519 webhook verification and a Claude reply agent. 9 tests. |
 | [**one-login**](https://github.com/MicoleKurt/one-login) | Next.js + Supabase money dashboard with row-level security and a 36-attack test script. |
 | [**little-lemon-capstone**](https://github.com/MicoleKurt/little-lemon-capstone) | MySQL booking system: schema, stored procedures, Python client, ER diagram, Tableau data. |
 | [**HopeSMS**](https://github.com/EranJosh/HopeSMS-Sales-Mngmt-System) | React + Supabase sales management system, built with Eran Josh Reyes. |
@@ -234,7 +237,7 @@ A finding derived from a model whose training data cannot be reconstructed canno
 
 ## 🏅 Certifications
 
-Programmes and specializations (individual courses inside them are not listed separately). 40+ credentials in total; every public verification link is on the [portfolio](https://ico-portfolio.vercel.app/).
+Programmes and specializations (individual courses inside them are not listed separately). 45 credentials in total; every public verification link is on the [portfolio](https://ico-portfolio.vercel.app/).
 
 | Programme | Issuer | Credential |
 |---|---|:---:|
@@ -259,6 +262,12 @@ Programmes and specializations (individual courses inside them are not listed se
 | Oracle Cloud and AI Specialization | Oracle via Coursera | [Verify ↗](https://coursera.org/verify/specialization/S72G4DKZC0FZ) |
 | AI Automation Engineer with n8n Specialization | LearnKartS via Coursera | [Verify ↗](https://coursera.org/verify/specialization/SFQJ6Y9AY6RQ) |
 | Meta Database Engineer Professional Certificate | Meta via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/12NPWZ4RNRGX) |
+| Meta Android Developer Professional Certificate | Meta via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/EKJY7KHZAYRY) |
+| Meta React Native Specialization | Meta via Coursera | [Verify ↗](https://coursera.org/verify/specialization/TQA81YC1VYRM) |
+| Microsoft AI Business Professional Certificate | Microsoft via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/FN03TOON4V14) |
+| Artificial Intelligence Ethics Specialization | University of Colorado Boulder via Coursera | [Verify ↗](https://coursera.org/verify/specialization/VYM7C5DP24A1) |
+| Claude 101 · AI Fluency for Builders · Claude on Google Cloud | Anthropic | [Claude 101 ↗](https://verify.skilljar.com/c/huu2r5viw8kx) · [AI Fluency ↗](https://verify.skilljar.com/c/o5hcixocwdf5) · [Google Cloud ↗](https://verify.skilljar.com/c/jupbozw3gvwj) |
+| Software Engineer · Python (Basic) | HackerRank | [Software Engineer ↗](https://www.hackerrank.com/certificates/274ae0cb42cb) · [Python ↗](https://www.hackerrank.com/certificates/3aa186c1af9f) |
 | Google IT Support Professional Certificate | Google via Coursera | [Verify ↗](https://coursera.org/verify/professional-cert/P0IPEY2413FV) |
 | International Business Specialization | University of Colorado Boulder via Coursera | [Verify ↗](https://coursera.org/verify/specialization/RFBFKNMPQKZ8) |
 
